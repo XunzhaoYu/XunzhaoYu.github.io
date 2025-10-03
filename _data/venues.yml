@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+#"AJP":
+#  url: https://aapt.scitation.org/journal/ajp
+#  color: "#00369f"
+
+#"PhysRev":
+#  url: https://journals.aps.org/
+
+#"Vision":
+#  color: "#009f36"
+
+
+"NeurIPS":
+  url: https://nips.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TCYB":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036
+  color: "#0a06d1"
 
-"Vision":
-  color: "#009f36"
+"APEN":
+  url: https://www.sciencedirect.com/journal/applied-energy
+  color: "#dba81d"
+
+"SSCI":
+  url: https://nips.cc/
+  color: "#6f6f7d"
