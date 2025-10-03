@@ -419,16 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-work-as-a-research-fellow-at-university-of-warwick-department-of-economics",
+          title: 'Work as a Research Fellow at University of Warwick, Department of Economics.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-work-fseo-has-been-accepted-at-neurips-2025-as-a-poster-sparkles-smile",
+          title: 'My work FSEO has been accepted at NeurIPS 2025 as a poster. :sparkles:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
