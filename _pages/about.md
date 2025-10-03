@@ -30,6 +30,20 @@ latest_posts:
 [//]: # "Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
 Ph.D. in Computer Science. 
 
+I worked as a Research Fellow at the University of Warwick, Department of Economics since Jan-2024. 
+Focusing on the UKPlanning project led by Kulka, Amrita and Datta, Nikhil.
+
+[//]: # "From June-2017 I have been a PhD student at the School of Computer Science, University of Birmingham, contributing to the UKRI Turing AI Acceleration Fellowship project “Rigorous Time-Complexity Analysis of Coevolutionary Algorithms” (project page), led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Lehre."
+
+My research interests are Machine Learning and Optimization, including 
+Deep Learning, Meta-Learning, Transfer Learning, 
+Bayesian Optimization, Evolutionary Computation, 
+Stochastic Processes. 
+
+I obtained a BSc in Department of Computer Science & Technology, Nanjing University. 
+During my undergraduate study, I joined Learning And Mining from DatA (LAMDA) group, supervised by Prof. Yang Yu. It is my honor to be supervised by Prof. Yu.
+After that, I completed my PhD in School of Computer Science, University of Birmingham.
+
 [//]: # "Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically."
 
 [//]: # "Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them."
