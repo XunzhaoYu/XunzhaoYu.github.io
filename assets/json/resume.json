@@ -49,30 +49,37 @@
   "Work Experience": [
     {
       "name": "Department of Economics, University of Warwick",
+      "location": "Coventry, UK",
       "position": "Research Fellow",
       "url": "",
       "startDate": "2024-01",
       "endDate": "present",
       "summary": "",
-      "highlights": [""]
+      "highlights": ["Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
     },
     {
       "name": "Ford Motor Company",
+      "location": "Dearborn, MI, US",
       "position": "Machine Learning Researcher",
       "url": "",
       "startDate": "2017-09",
       "endDate": "2021-07",
       "summary": "",
-      "highlights": [""]
+      "highlights": ["Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
+      "Applied machine learning techniques (e.g. deep learning) and statistical learning techniques (e.g. Gaussian Processes) to develop predictive models for motor engines.",
+      "Developed intelligent model-based optimisation / Bayesian optimisation algorithms to calibrate gasoline motor engines."]
     },
     {
       "name": "Learning And Mining from DatA (LAMDA) Group, Nanjing University",
+      "location": "Nanjing, China",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2014-07",
       "endDate": "2016-06",
       "summary": "",
-      "highlights": ["Supervisor: Prof. Yang Yu"]
+      "highlights": ["Supervisor: Prof. Yang Yu",
+      "Research topics: Machine Learning, Statistical Learning, Bayesian Optimisation",
+      "Developed a co-training semi-supervised regression approach to actively learn predictive models for problems."]
     }
   ],
    "Projects[None]": [
@@ -177,23 +184,21 @@
   "Academic Services": [
     {
       "organization": "ICLR, AAAI",
-      "location": "",
       "position": "Program Committee Member",
       "url": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     },
     {
       "organization": "IEEE {TEVC, TCYB, TETCI}, Applied Energy, Evolving Systems, etc",
-      "location": "",
       "position": "Peer Reviewer",
       "url": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "Honors and Awards": [
