@@ -34,6 +34,7 @@
 
               {% if content.preview %}
                 <tr>
+                <td>
                 {% if content.preview contains '://' %}
                   <img class="preview z-depth-1 rounded" src="{{ content.preview }}">
                 {% else %}
@@ -49,6 +50,7 @@
                     alt=content.preview
                   %}
                 {% endif %}
+                </td>
                 </tr>
               {% endif %}
 
