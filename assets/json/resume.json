@@ -3,21 +3,19 @@
     "name": "XunZhao Yu (余训昭)",
     "image": "",
     "email": "yuxunzhao@gmail.com; Xunzhao.Yu@warwick.ac.uk",
-    "phone": "-",
-    "url": "https://xunzhaoyu.github.io/",
     "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "University of Warwick",
+      "postalCode": "CV4 7AL",
+      "city": "Coventry",
+      "countryCode": "UK",
+      "region": "West Midlands"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -248,7 +246,7 @@
       "summary": ""
     },
     {
-      "title": "Ford Motor Company (USA) PhD Scholarship",
+      "title": "Ford Motor Company (USA) PhD Scholarship (fully-funded)",
       "startDate": "2017",
       "endDate": "2020",
       "awarder": "University of Birmingham",

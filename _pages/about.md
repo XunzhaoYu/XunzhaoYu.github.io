@@ -31,7 +31,9 @@ latest_posts:
 Ph.D. in Computer Science. 
 
 I have been working as a Research Fellow in the Department of Economics at the University of Warwick since January 2024.
-Focusing on the UKPlanning project led by Kulka, Amrita and Datta, Nikhil.
+Focusing on the UKPlanning project led by 
+<a href='https://sites.google.com/site/kulkaamrita/home'>Dr. Kulka, Amrita</a> (assistant professor) and 
+<a href='https://nikhil-datta.com/'>Dr. Datta, Nikhil</a> (assistant professor).
 
 [//]: # "From June 2017 I have been a PhD student at the School of Computer Science, University of Birmingham, contributing to the UKRI Turing AI Acceleration Fellowship project “Rigorous Time-Complexity Analysis of Coevolutionary Algorithms” (project page), led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Lehre."
 
