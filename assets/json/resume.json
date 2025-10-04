@@ -166,7 +166,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "Volunteer": [
+  "Academic Services": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -178,7 +178,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "Awards": [
+  "Honors and Awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -189,7 +189,7 @@
   ],
   "Languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -201,11 +201,11 @@
   ],
   "Interests": [
     {
-      "name": "Physics",
+      "name": "Piano",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
+        "Sonata Pathétique (Beethoven)",
+        "Liebesträume (Liszt)",
         "Quantum Information",
         "Quantum Cryptography",
         "Quantum Communication",
