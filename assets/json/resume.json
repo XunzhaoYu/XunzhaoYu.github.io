@@ -23,11 +23,12 @@
   },
    "Education": [
     {
+      "icon": "fa-solid fa-building-columns",
       "institution": "University of Birmingham (UoB)",
       "location": "Birmingham, UK",
       "url": "",
-      "area": "Computer Science",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "PhD in Computer Science",
       "startDate": "2017-06",
       "endDate": "2023-02",
       "score": "10",
@@ -35,12 +36,13 @@
       "Research interests: Machine Learning and Optimisation, including deep learning, transfer learning, Bayesian optimisation, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems."]
     },
      {
+      "icon": "fa-solid fa-building-columns",
       "institution": "南京大学 (Nanjing University, NJU)",
       "location": "Nanjing, China",
       "preview": "NJU.png",
       "url": "",
-      "area": "Computer Science & Technology",
-      "studyType": "BSc",
+      "area": "",
+      "studyType": "BSc in Computer Science & Technology",
       "startDate": "2011-09",
       "endDate": "2015-06",
       "score": "10",
@@ -51,6 +53,7 @@
   ],
   "Work Experience": [
     {
+      "icon": "fa-solid fa-building-columns",
       "name": "Department of Economics, University of Warwick",
       "location": "Coventry, UK",
       "preview": "Warwick.png",
@@ -62,6 +65,7 @@
       "highlights": ["Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
     },
     {
+      "icon": "fa-solid fa-building",
       "name": "Ford Motor Company",
       "location": "Dearborn, MI, US",
       "preview": "Ford.png",
@@ -75,6 +79,7 @@
       "Developed intelligent model-based optimisation / Bayesian optimisation algorithms to calibrate gasoline motor engines."]
     },
     {
+      "icon": "fa-solid fa-building-columns",
       "name": "Learning And Mining from DatA (LAMDA) Group, Nanjing University",
       "location": "Nanjing, China",
       "preview": "LAMDA.png",
