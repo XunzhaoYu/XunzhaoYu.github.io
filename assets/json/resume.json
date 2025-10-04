@@ -1,9 +1,9 @@
 {
   "General Information": {
-    "name": "XunZhao Yu",
+    "name": "XunZhao Yu (余训昭)",
     "image": "",
     "email": "yuxunzhao@gmail.com",
-    "phone": " ",
+    "phone": "-",
     "url": "https://xunzhaoyu.github.io/",
     "summary": "",
     "location": {
@@ -31,7 +31,8 @@
       "startDate": "2017-06",
       "endDate": "2023-02",
       "score": "10",
-      "courses": ["PhD Thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems"]
+      "courses": ["PhD Thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems",
+      "Research interests: Machine Learning and Optimisation, including deep learning, transfer learning, Bayesian optimisation, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems."]
     },
      {
       "institution": "南京大学 (Nanjing University, NJU)",
@@ -198,24 +199,25 @@
   "Honors and Awards": [
     {
       "title": "Ford Motor Company (USA) PhD Scholarship",
-      "date": "2017-2020",
+      "startDate": "2017",
+      "endDate": "2020",
       "awarder": "University of Birmingham",
       "url": "",
-      "summary": "'"
+      "summary": ""
     },
     {
       "title": "Outstanding Student, Nanjing University",
       "date": "2014",
       "awarder": "Nanjing University",
       "url": "",
-      "summary": "'"
+      "summary": ""
     },
     {
       "title": "Outstanding Student, Department of Computer Science",
       "date": "2013",
       "awarder": "Nanjing University",
       "url": "",
-      "summary": "'"
+      "summary": ""
     }
   ],
   "Languages": [
@@ -252,7 +254,7 @@
       ]
     }
   ],
-  "References": [
+  "References[None]": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
