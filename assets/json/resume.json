@@ -34,9 +34,9 @@
       "endDate": "2023-02",
       "score": "10",
       "courses": ["Research interests: Machine Learning and Optimization, including deep learning, transfer learning, Bayesian optimization, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems.",
-        "PhD Thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems",
-        "Primary Supervisor: Prof. Xin Yao (relocated to a position outside the UK in 2017.)",
-        "Secondary Supervisor: Prof. Joshua Knowles (left UoB due to illness in 2017)",
+        "PhD thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems.",
+        "Primary supervisor: Prof. Xin Yao (relocated to a position outside the UK in 2017).",
+        "Secondary supervisor: Prof. Joshua Knowles (left UoB due to illness in 2017).",
         "Completed PhD on my own."]
     },
      {
@@ -51,8 +51,7 @@
       "endDate": "2015-06",
       "score": "10",
       "courses": ["Selected courses: Calculus, linear algebra, probability & statistics, programming, data structures, operating systems, algorithm, computer network, database, data mining, pattern recognition, mathematical modeling, digital image processing.",
-        "GPA: 87.2/100. Ranking: 15/177",
-        "Supervisor: Prof. Yang Yu"]
+        "Supervisor: Prof. Yang Yu."]
     }
   ],
   "Work Experience": [
@@ -66,7 +65,7 @@
       "startDate": "2024-01",
       "endDate": "present",
       "summary": "",
-      "highlights": ["Line Managers: Amrita Kulka (assistant professor) and Nikhil Datta (assistant professor).",
+      "highlights": ["Line managers: Dr. Amrita Kulka (assistant professor) and Dr. Nikhil Datta (assistant professor).",
         "Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
     },
     {
@@ -79,7 +78,7 @@
       "startDate": "2017-09",
       "endDate": "2021-07",
       "summary": "",
-      "highlights": ["Line Manager: Dr. Yan Wang (technical expert).",
+      "highlights": ["Line manager: Dr. Yan Wang (technical expert).",
         "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
         "Applied machine learning techniques (e.g. deep learning) and statistical learning techniques (e.g. Gaussian Processes) to develop predictive models for motor engines.",
         "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines."]
@@ -224,25 +223,30 @@
   ],
   "Academic Services": [
     {
-      "organization": "ICLR, AAAI",
+      "organization": "ICLR, AAAI.",
       "position": "Program Committee Member",
       "url": "",
-      "startDate": "",
       "endDate": "Conference",
       "summary": "",
       "highlights": []
     },
     {
-      "organization": "IEEE {TEVC, TCYB, TETCI}, Applied Energy, Evolving Systems, etc",
+      "organization": "IEEE {TEVC, TCYB, TETCI}, Applied Energy, Evolving Systems, etc.",
       "position": "Peer Reviewer",
       "url": "",
-      "startDate": "",
       "endDate": "Journal",
       "summary": "",
       "highlights": []
     }
   ],
   "Honors and Awards": [
+    {
+      "title": "IEEE CIS Travel Grant",
+      "date": "2019",
+      "awarder": "IEEE Computational Intelligence Society",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Ford Motor Company (USA) PhD Scholarship",
       "startDate": "2017",
