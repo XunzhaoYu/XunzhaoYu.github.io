@@ -26,14 +26,18 @@
       "icon": "fa-solid fa-building-columns",
       "institution": "University of Birmingham (UoB)",
       "location": "Birmingham, UK",
+      "preview": "UoB.png",
       "url": "",
       "area": "",
       "studyType": "PhD in Computer Science",
       "startDate": "2017-06",
       "endDate": "2023-02",
       "score": "10",
-      "courses": ["PhD Thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems",
-      "Research interests: Machine Learning and Optimisation, including deep learning, transfer learning, Bayesian optimisation, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems."]
+      "courses": ["Research interests: Machine Learning and Optimization, including deep learning, transfer learning, Bayesian optimization, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems.",
+        "PhD Thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems",
+        "Primary Supervisor: Prof. Xin Yao (relocated to a position outside the UK in 2017.)",
+        "Secondary Supervisor: Prof. Joshua Knowles (left UoB due to illness in 2017)",
+        "Completed PhD on my own."]
     },
      {
       "icon": "fa-solid fa-building-columns",
@@ -62,7 +66,8 @@
       "startDate": "2024-01",
       "endDate": "present",
       "summary": "",
-      "highlights": ["Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
+      "highlights": ["Line Managers: Amrita Kulka (assistant professor) and Nikhil Datta (assistant professor).",
+        "Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
     },
     {
       "icon": "fa-solid fa-building",
@@ -74,9 +79,10 @@
       "startDate": "2017-09",
       "endDate": "2021-07",
       "summary": "",
-      "highlights": ["Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
-      "Applied machine learning techniques (e.g. deep learning) and statistical learning techniques (e.g. Gaussian Processes) to develop predictive models for motor engines.",
-      "Developed intelligent model-based optimisation / Bayesian optimisation algorithms to calibrate gasoline motor engines."]
+      "highlights": ["Line Manager: Dr. Yan Wang (technical expert).",
+        "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
+        "Applied machine learning techniques (e.g. deep learning) and statistical learning techniques (e.g. Gaussian Processes) to develop predictive models for motor engines.",
+        "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines."]
     },
     {
       "icon": "fa-solid fa-building-columns",
@@ -88,9 +94,9 @@
       "startDate": "2014-07",
       "endDate": "2016-06",
       "summary": "",
-      "highlights": ["Supervisor: Prof. Yang Yu",
-      "Research topics: Machine Learning, Statistical Learning, Bayesian Optimisation",
-      "Developed a co-training semi-supervised regression approach to actively learn predictive models for problems."]
+      "highlights": ["Supervisor: Prof. Yang Yu.",
+        "Research topics: Machine Learning, Statistical Learning, Bayesian Optimization.",
+        "Developed a co-training semi-supervised regression approach to actively learn predictive models for problems."]
     }
   ],
    "Projects[None]": [
