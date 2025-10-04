@@ -224,18 +224,18 @@
     {
       "language": "Chinese (Mandarin)",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     }
   ],
   "Interests": [
     {
       "name": "Piano",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-music",
       "keywords": [
         "Sonata Pathétique (Beethoven)",
         "Liebesträume (Liszt)",
@@ -244,10 +244,18 @@
       ]
     },
     {
-      "name": "Game",
-      "icon": "fa-solid fa-tag",
+      "name": "Detective Fiction",
+      "icon": "fa-solid fa-user-secret",
       "keywords": [
-        "Pokemon",
+        "Sherlock Holmes",
+        "And Then There Were None (Agatha)"
+      ]
+    },
+    {
+      "name": "Game",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": [
+        "Pokémon",
         "Legend of Zelda",
         "Ace Attorney",
         "Resident Evil"
