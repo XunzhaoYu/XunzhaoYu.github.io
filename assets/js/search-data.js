@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-work-as-a-research-fellow-at-university-of-warwick-department-of-economics",
-          title: 'Work as a Research Fellow at University of Warwick, Department of Economics.',
+            },},{id: "news-joined-the-department-of-economics-university-of-warwick-as-a-research-fellow",
+          title: 'Joined the Department of Economics, University of Warwick as a Research Fellow.',
           description: "",
           section: "News",},{id: "news-my-work-fseo-has-been-accepted-at-neurips-2025-as-a-poster-sparkles-smile",
           title: 'My work FSEO has been accepted at NeurIPS 2025 as a poster. :sparkles:...',
