@@ -2,7 +2,7 @@
   "General Information": {
     "name": "XunZhao Yu (余训昭)",
     "image": "",
-    "email": "yuxunzhao@gmail.com",
+    "email": "yuxunzhao@gmail.com; Xunzhao.Yu@warwick.ac.uk",
     "phone": "-",
     "url": "https://xunzhaoyu.github.io/",
     "summary": "",
@@ -37,13 +37,16 @@
      {
       "institution": "南京大学 (Nanjing University, NJU)",
       "location": "Nanjing, China",
+      "preview": "nju.png",
       "url": "",
       "area": "Computer Science & Technology",
       "studyType": "BSc",
       "startDate": "2011-09",
       "endDate": "2015-06",
       "score": "10",
-      "courses": ["Supervisor: Prof. Yang Yu"]
+      "courses": ["Selected courses: Calculus, linear algebra, probability & statistics, programming, data structures, operating systems, algorithm, computer network, database, data mining, pattern recognition, mathematical modeling, digital image processing.",
+        "GPA: 87.2/100. Ranking: 15/177",
+        "Supervisor: Prof. Yang Yu"]
     }
   ],
   "Work Experience": [
