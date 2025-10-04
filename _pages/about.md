@@ -30,10 +30,10 @@ latest_posts:
 [//]: # "Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
 Ph.D. in Computer Science. 
 
-I worked as a Research Fellow at the University of Warwick, Department of Economics since Jan-2024. 
+I have been working as a Research Fellow in the Department of Economics at the University of Warwick since January 2024.
 Focusing on the UKPlanning project led by Kulka, Amrita and Datta, Nikhil.
 
-[//]: # "From June-2017 I have been a PhD student at the School of Computer Science, University of Birmingham, contributing to the UKRI Turing AI Acceleration Fellowship project “Rigorous Time-Complexity Analysis of Coevolutionary Algorithms” (project page), led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Lehre."
+[//]: # "From June 2017 I have been a PhD student at the School of Computer Science, University of Birmingham, contributing to the UKRI Turing AI Acceleration Fellowship project “Rigorous Time-Complexity Analysis of Coevolutionary Algorithms” (project page), led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Lehre."
 
 My research interests are Machine Learning and Optimization, including 
 Deep Learning, Meta-Learning, Transfer Learning, 

@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Work as a Research Fellow at University of Warwick, Department of Economics.
-
+Joined the Department of Economics, University of Warwick as a Research Fellow.
