@@ -107,7 +107,7 @@
     {
       "name": "Python",
       "level": "Master",
-      "icon": "fa-solid fa-python",
+      "icon": "fa-brands fa-python",
       "keywords": [
         "Numpy",
         "Tensorflow",
@@ -133,7 +133,7 @@
     {
       "name": "Others",
       "level": "Master",
-      "icon": "fa-solid fa-git",
+      "icon": "fa-brands fa-git",
       "keywords": [
         "Git",
         "Shell",
@@ -297,8 +297,7 @@
       "keywords": [
         "Pokémon",
         "Legend of Zelda",
-        "Ace Attorney",
-        "Resident Evil"
+        "Ace Attorney"
       ]
     }
   ],
