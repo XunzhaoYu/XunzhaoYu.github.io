@@ -29,6 +29,27 @@
                   </td>
                 </tr>
               {% endif %}
+
+              {% if content.preview %}
+                <tr>
+                {% if content.preview contains '://' %}
+                  <img class="preview z-depth-1 rounded" src="{{ content.preview }}">
+                {% else %}
+                  {% assign content_path = content.preview | prepend: '/assets/img/cv_preview/' %}
+                  {%
+                    include figure.liquid
+                    loading="eager"
+                    path=content_path
+                    sizes = "200px"
+                    class="preview z-depth-1 rounded"
+                    zoomable=true
+                    avoid_scaling=true
+                    alt=content.preview
+                  %}
+                {% endif %}
+                </tr>
+              {% endif %}
+
             </tbody>
           </table>
         </div>

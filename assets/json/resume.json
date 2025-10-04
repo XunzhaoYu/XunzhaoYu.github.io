@@ -37,7 +37,7 @@
      {
       "institution": "南京大学 (Nanjing University, NJU)",
       "location": "Nanjing, China",
-      "preview": "nju.png",
+      "preview": "NJU.png",
       "url": "",
       "area": "Computer Science & Technology",
       "studyType": "BSc",
@@ -53,6 +53,7 @@
     {
       "name": "Department of Economics, University of Warwick",
       "location": "Coventry, UK",
+      "preview": "Warwick.png",
       "position": "Research Fellow",
       "url": "",
       "startDate": "2024-01",
@@ -63,6 +64,7 @@
     {
       "name": "Ford Motor Company",
       "location": "Dearborn, MI, US",
+      "preview": "Ford.png",
       "position": "Machine Learning Researcher",
       "url": "",
       "startDate": "2017-09",
@@ -75,6 +77,7 @@
     {
       "name": "Learning And Mining from DatA (LAMDA) Group, Nanjing University",
       "location": "Nanjing, China",
+      "preview": "LAMDA.png",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2014-07",
