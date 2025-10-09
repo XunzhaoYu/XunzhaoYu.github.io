@@ -50,7 +50,3 @@ After that, I completed my PhD in School of Computer Science, University of Birm
 
 [//]: # "Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them."
 
-
-
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=w8ymNbcLN1HY8-fDgb4C0GdJ_Mhvu_V8oiMmmZ77ffM&cl=ffffff&w=a"></script>
