@@ -42,9 +42,9 @@ Deep Learning, Meta-Learning, Transfer Learning,
 Bayesian Optimization, Evolutionary Computation, 
 Stochastic Processes. 
 
-I obtained a BSc in Department of Computer Science & Technology, <a href='https://www.nju.edu.cn/en/'>Nanjing University</a>. 
+I obtained a B.Sc. in Department of Computer Science & Technology, <a href='https://www.nju.edu.cn/en/'>Nanjing University</a>. 
 During my undergraduate study, I joined Learning And Mining from DatA (LAMDA) group, supervised by <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Prof. Yang Yu</a>. It is my honor to be supervised by Prof. Yu.
-After that, I completed my PhD in School of Computer Science, University of Birmingham.
+After that, I completed my Ph.D. in School of Computer Science, University of Birmingham.
 
 [//]: # "Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically."
 

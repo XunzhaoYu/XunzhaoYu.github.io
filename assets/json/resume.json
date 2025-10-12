@@ -78,8 +78,9 @@
       "summary": "",
       "highlights": ["Line manager: Dr. Yan Wang (technical expert).",
         "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
-        "Applied machine learning techniques (e.g. deep learning) and statistical learning techniques (e.g. Gaussian Processes) to develop predictive models for motor engines.",
-        "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines."]
+        "Applied machine learning (e.g. deep learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
+        "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines.",
+        "Achieved a 40% improvement in calibration efficiency and an 80% rise in feasible engine designs. Published related work in two top-tier academic journals."]
     },
     {
       "icon": "fa-solid fa-building-columns",
@@ -93,7 +94,8 @@
       "summary": "",
       "highlights": ["Supervisor: Prof. Yang Yu.",
         "Research topics: Machine Learning, Statistical Learning, Bayesian Optimization.",
-        "Developed a co-training semi-supervised regression approach to actively learn predictive models for problems."]
+        "Developed a co-training semi-supervised regression approach for predictive modeling.",
+        "Designed a top-querying strategy integrating these models with CMA optimization, enhancing optimization efficiency by 4.4%–64% across Bayesian optimization problems."]
     }
   ],
    "Projects[None]": [
@@ -239,9 +241,16 @@
   ],
   "Honors and Awards": [
     {
+      "title": "CAGE Research Grant",
+      "date": "2025",
+      "awarder": "The ESRC Centre for Advantage in the Global Economy (CAGE), University of Warwick",
+      "url": "",
+      "summary": ""
+    },
+    {
       "title": "IEEE CIS Travel Grant",
       "date": "2019",
-      "awarder": "IEEE Computational Intelligence Society",
+      "awarder": "IEEE Computational Intelligence Society (CIS)",
       "url": "",
       "summary": ""
     },
