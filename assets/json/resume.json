@@ -64,7 +64,9 @@
       "endDate": "present",
       "summary": "",
       "highlights": ["Line managers: Dr. Amrita Kulka (assistant professor) and Dr. Nikhil Datta (assistant professor).",
-        "Scraping high-dimensional, complex data from 425 idiosyncratic online platforms via deploying scrapers on AWS."]
+        "Scraping high-dimensional, complex data from 425 idiosyncratic online planning platforms via deploying scrapers on AWS.",
+        "Built and deployed 200+ production scrapers across 10+ frameworks, extracting data and documents from over 12M planning applications.",
+        "Using OCR machine learning and computer vision approaches to analyse texts in PDFs."]
     },
     {
       "icon": "fa-solid fa-building",
@@ -78,7 +80,7 @@
       "summary": "",
       "highlights": ["Line manager: Dr. Yan Wang (technical expert).",
         "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
-        "Applied machine learning (e.g. deep learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
+        "Applied machine learning (e.g. deep learning, meta-learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
         "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines.",
         "Achieved a 40% improvement in calibration efficiency and an 80% rise in feasible engine designs. Published related work in two top-tier academic journals."]
     },
