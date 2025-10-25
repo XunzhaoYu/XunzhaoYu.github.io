@@ -35,7 +35,7 @@
         "PhD thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems.",
         "Primary supervisor: Prof. Xin Yao (relocated to a position outside the UK in 2017).",
         "Secondary supervisor: Prof. Joshua Knowles (left UoB due to illness in 2017).",
-        "Completed PhD on my own."]
+        "Completed PhD on my own after both supervisors departed UoB, demonstrating ability to conduct independent research."]
     },
      {
       "icon": "fa-solid fa-building-columns",
@@ -48,7 +48,7 @@
       "startDate": "2011-09",
       "endDate": "2015-06",
       "score": "10",
-      "courses": ["Selected courses: Calculus, linear algebra, probability & statistics, programming, data structures, operating systems, algorithm, computer network, database, data mining, pattern recognition, mathematical modeling, digital image processing.",
+      "courses": ["Selected courses: Calculus, linear algebra, probability & statistics, programming, data structures, operating systems, algorithm, database, data mining, pattern recognition, mathematical modeling, digital image processing, computer network.",
         "Supervisor: Prof. Yang Yu."]
     }
   ],
@@ -82,7 +82,7 @@
         "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
         "Applied machine learning (e.g. deep learning, meta-learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
         "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines.",
-        "Achieved a 40% improvement in calibration efficiency and an 80% rise in feasible engine designs. Published related work in two top-tier academic journals."]
+        "Achieved a 40% improvement in calibration efficiency and an 80% increase in the number of feasible engine designs."]
     },
     {
       "icon": "fa-solid fa-building-columns",
@@ -97,7 +97,7 @@
       "highlights": ["Supervisor: Prof. Yang Yu.",
         "Research topics: Machine Learning, Statistical Learning, Bayesian Optimization.",
         "Developed a co-training semi-supervised regression approach for predictive modeling.",
-        "Designed a top-querying strategy integrating these models with CMA optimization, enhancing optimization efficiency by 4.4%–64% across Bayesian optimization problems."]
+        "Designed a top-querying strategy integrating these models with CMA optimization, improving optimization efficiency by up to 64% across Bayesian optimization problems."]
     }
   ],
    "Projects[None]": [
@@ -225,7 +225,7 @@
   ],
   "Academic Services": [
     {
-      "organization": "ICLR, AAAI.",
+      "organization": "ICLR, AAAI",
       "position": "Program Committee Member",
       "url": "",
       "endDate": "Conference",
