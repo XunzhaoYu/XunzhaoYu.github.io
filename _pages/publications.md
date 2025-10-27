@@ -15,6 +15,9 @@ nav_order: 5
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f papers %}
+
+<h1> Unpublished Research </h1>
+{% bibliography -f manuscripts %}
 
 </div>
