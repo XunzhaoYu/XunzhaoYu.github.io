@@ -31,7 +31,7 @@
       "startDate": "2017-06",
       "endDate": "2023-02",
       "score": "10",
-      "courses": ["Research interests: Machine Learning and Optimization, including deep learning, transfer learning, Bayesian optimization, evolutionary computation, statistical learning, stochastic processes, and their applications in real-world problems.",
+      "courses": ["Research interests: Machine Learning and Optimization, including deep learning, meta learning, Bayesian optimization, reinforcement learning, evolutionary computation, statistical learning, time series analysis, stochastic processes, and their applications in real-world problems.",
         "PhD thesis: Surrogate-Assisted Evolutionary Algorithms for Computationally Expensive Optimization Problems.",
         "Primary supervisor: Prof. Xin Yao (relocated to a position outside the UK in 2017).",
         "Secondary supervisor: Prof. Joshua Knowles (left UoB due to illness in 2017).",
@@ -82,7 +82,8 @@
         "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
         "Applied machine learning (e.g. deep learning, meta-learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
         "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines.",
-        "Achieved a 40% improvement in calibration efficiency and an 80% increase in the number of feasible engine designs."]
+        "Achieved a 40% improvement in calibration efficiency and an 80% increase in the number of feasible engine designs.",
+        "Worked on multi-disciplinary teams with diverse backgrounds."]
     },
     {
       "icon": "fa-solid fa-building-columns",
