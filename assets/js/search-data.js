@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "TA for several courses at School of Computer Science, University of Birmingham.",
+          description: "TA for several courses at the School of Computer Science, University of Birmingham.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
