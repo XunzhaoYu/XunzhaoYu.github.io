@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: TA for several courses at School of Computer Science, University of Birmingham.
+description: TA for several courses at the School of Computer Science, University of Birmingham.
 nav: true
 nav_order: 6
 ---
