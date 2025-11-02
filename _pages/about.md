@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Economics</p>
-    <p>University of Warwick</p>
+    <p>University of Warwick     </p>
     <p>Coventry, CV4 7AL</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -47,8 +47,8 @@ where I attended weekly seminars hosted by <a href='https://cs.nju.edu.cn/zhouzh
 Under the supervision of <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Prof. Yang Yu</a>, I developed essential research skills. It was an honor to be supervised by Prof. Yu.  
 
 `Ph.D.` After my undergraduate study, I completed my Ph.D. at the School of Computer Science, University of Birmingham.  
--- Both of my supervisors left the University of Birmingham during my first Ph.D. year. 
-I completed my Ph.D. independently, developing a **strong ability to conduct independent research**.   
+-- Both of my supervisors left the University of Birmingham during my first Ph.D. semester. 
+As a result, I completed my Ph.D. independently, developing a **strong ability to conduct independent research**.   
 -- My Ph.D. study was funded by Ford Motor Company (USA), 
 which gave me the opportunity to collaborate with 
 <a href='https://scholar.google.com/citations?user=PCA9jesAAAAJ&hl=en'>Dr. Yan Wang</a> and 
