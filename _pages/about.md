@@ -41,18 +41,22 @@ Bayesian Optimization, Reinforcement Learning, Evolutionary Computation,
 Statistical Learning, Time Series Analysis, Stochastic Processes. 
 
 `B.Sc.` I obtained a B.Sc. at the Department of Computer Science & Technology, <a href='https://www.nju.edu.cn/en/'>Nanjing University</a>.  
-During my undergraduate study, I joined the <a href='https://www.lamda.nju.edu.cn/MainPage.ashx'>Learning And Mining from DatA (LAMDA)</a> group. 
-Supervised by <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Prof. Yang Yu</a>, I began systematic study and research on Machine Learning, Statistical Learning, and Bayesian Optimization. It was an honor to be supervised by Prof. Yu.  
+-- During my undergraduate study, I joined the <a href='https://www.lamda.nju.edu.cn/MainPage.ashx'>Learning And Mining from DatA (LAMDA)</a> group,
+where I attended weekly seminars hosted by <a href='https://cs.nju.edu.cn/zhouzh/'>Prof. Zhi-Hua Zhou</a> and began a systematic study of Machine Learning and Statistical Learning.   
+-- I also started academic research on Machine Learning and Bayesian Optimization @LAMDA. 
+Under the supervision of <a href='https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK'>Prof. Yang Yu</a>, I developed essential research skills. It was an honor to be supervised by Prof. Yu.  
 
 `Ph.D.` After my undergraduate study, I completed my Ph.D. at the School of Computer Science, University of Birmingham.  
-Both of my supervisors left the University of Birmingham during my first Ph.D. year. I completed my Ph.D. independently, developing a **strong ability to conduct independent research**.  
-My Ph.D. study was funded by Ford Motor Company (USA), 
-which gave me the opportunity to collaborate with several applied engineers and technical experts from Ford USA 
-(<a href='https://scholar.google.com/citations?user=PCA9jesAAAAJ&hl=en'>Dr. Yan Wang</a>, 
-<a href='https://scholar.google.com/citations?user=dhZRSRIAAAAJ&hl=en'>Dr. Dimitar Filev</a>) 
-and gain experience in solving complex real-world problems.
+-- Both of my supervisors left the University of Birmingham during my first Ph.D. year. 
+I completed my Ph.D. independently, developing a **strong ability to conduct independent research**.   
+-- My Ph.D. study was funded by Ford Motor Company (USA), 
+which gave me the opportunity to collaborate with 
+<a href='https://scholar.google.com/citations?user=PCA9jesAAAAJ&hl=en'>Dr. Yan Wang</a> and 
+<a href='https://scholar.google.com/citations?user=dhZRSRIAAAAJ&hl=en'>Dr. Dimitar Filev</a>
+(technical experts) from Ford USA
+and gain valuable experience in solving complex real-world problems.
 
-During my spare time, I collaborate with professors from top universities to conduct research on the mathematical theory underlying machine learning and optimization.  
+During my spare time, I collaborate with professors from top universities to conduct research on the mathematical theory underlying machine learning and optimization. 
 In addition, I am interested in finance and am actively learning about quantitative research.
 
 - - -
