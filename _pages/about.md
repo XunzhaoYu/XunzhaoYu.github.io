@@ -42,9 +42,6 @@ Deep Learning, Meta-Learning, Transfer Learning,
 Bayesian Optimization, Reinforcement Learning, Evolutionary Computation, 
 Statistical Learning, Time Series Analysis, Stochastic Processes.  
 
-[//]: # "I focused on the development of efficient Bayesian optimization methods for expensive single-/multi-/many-objective and constrained optimization problems.
-Specifically, I pioneer ordinal models for learning ordinal relations in the o"
-
 `B.Sc.` I obtained a B.Sc. at the Department of Computer Science & Technology, <a href='https://www.nju.edu.cn/en/'>Nanjing University</a>.  
 -- During my undergraduate study, I joined the <a href='https://www.lamda.nju.edu.cn/MainPage.ashx'>Learning And Mining from DatA (LAMDA)</a> group,
 where I attended weekly seminars hosted by <a href='https://cs.nju.edu.cn/zhouzh/'>Prof. Zhi-Hua Zhou</a> and began a systematic study of Machine Learning and Statistical Learning.   
