@@ -34,13 +34,17 @@ I have been working as a Research Fellow at the Department of Economics, Univers
 Focusing on the UKPlanning project led by 
 <a href='https://sites.google.com/site/kulkaamrita/home'>Dr. Kulka, Amrita</a> (assistant professor) and 
 <a href='https://nikhil-datta.com/'>Dr. Datta, Nikhil</a> (assistant professor).
-During my spare time, I collaborate with professors from top universities to conduct research on the mathematical theory underlying machine learning and optimization. 
-In addition, I am interested in finance and am actively learning about quantitative research.
 
 My research interests are **Machine Learning** and **Optimization**, including:   
 Deep Learning, Meta-Learning, Transfer Learning, 
 Bayesian Optimization, Reinforcement Learning, Evolutionary Computation, 
 Statistical Learning, Time Series Analysis, Stochastic Processes.  
+I focused on modeling ordinal relations in training data for model-based multi- and many-objective optimization to improve optimization efficiency.
+Based on statistical analysis (e.g., PCA) of large-scale datasets, I designed efficient stochastic process models and a bilevel architecture to dynamically allocate limited computational resources.
+I also explored pre-training deep learning and statistical models for diverse computationally expensive optimization problems.
+Recently, in my spare time, I have been collaborating with professors from top universities to conduct research on the mathematical theory underlying machine learning and optimization.
+In addition, I am interested in finance and am actively learning about quantitative research.
+
 
 `B.Sc.` I obtained a B.Sc. at the Department of Computer Science & Technology, <a href='https://www.nju.edu.cn/en/'>Nanjing University</a>.  
 -- During my undergraduate study, I joined the <a href='https://www.lamda.nju.edu.cn/MainPage.ashx'>Learning And Mining from DatA (LAMDA)</a> group,
