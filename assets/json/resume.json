@@ -64,9 +64,9 @@
       "endDate": "present",
       "summary": "",
       "highlights": ["Line managers: Dr. Amrita Kulka (assistant professor) and Dr. Nikhil Datta (assistant professor).",
-        "Scraping high-dimensional, complex data from 425 idiosyncratic online planning platforms via deploying scrapers on AWS.",
-        "Built and deployed 200+ production scrapers across 10+ frameworks, extracting data and documents from over 12M planning applications.",
-        "Using OCR machine learning and computer vision approaches to analyse texts in PDFs."]
+        "Situation: The research project requires scraping large scale complex data from 430+ idiosyncratic online platforms.",
+        "Task: Develop, deploy, and maintain hundreds of scrapers on AWS, process data for academic analysis.",
+        "Action and Result: \n- Built and deployed 200+ production scrapers across 10+ frameworks with Python (scrapy, selenium, pandas), extracting data and documents from over 12M planning applications. \n- Developed pattern recognition (tensorflow, keras, scikit-learn) and network solutions for diverse reCAPTCHA puzzles. \n- Employed ML and CV techniques (e.g. OCR) to analyse texts from PDF documents with 99%+ accuracy."]
     },
     {
       "icon": "fa-solid fa-building",
@@ -79,11 +79,10 @@
       "endDate": "2021-07",
       "summary": "",
       "highlights": ["Line manager: Dr. Yan Wang (technical expert).",
-        "Processed and analyzed large real-world motor engine datasets to uncover intrinsic patterns from the data.",
-        "Applied machine learning (e.g. deep learning, meta-learning) and statistical learning (e.g. Gaussian Processes) techniques to develop predictive models for motor engines.",
-        "Developed intelligent model-based optimization / Bayesian optimization algorithms to calibrate gasoline motor engines.",
-        "Achieved a 40% improvement in calibration efficiency and an 80% increase in the number of feasible engine designs.",
-        "Worked on multi-disciplinary teams with diverse backgrounds."]
+        "Situation: Engine calibration is a time-consuming process of optimizing engine settings to achieve optimal performance.",
+        "Task: Develop efficient modeling methods and model-based optimisation algorithms to accelerate calibration R&D cycles.",
+        "Action:\n- Used statistical methods (e.g. PCA) to process and analyse large real-world motor engine datasets with Python (numpy, pandas, scikit-learn) to uncover intrinsic patterns between engine settings and engine performance.\n- Developed ordinal regression, deep kernel learning, and pre-trained models (deep learning, meta-learning, multivariate Gaussian Process) with Python (numpy, tensorflow, pytorch) and Matlab to approximate motor engine performance.\n- Designed Bayesian optimisation, bilevel optimisation, and few-shot optimisation frameworks to explore feasible solutions with optimal statistical performance (e.g. expected improvement, probability of improvement) on approximation models.\n- Worked on multi-disciplinary teams with diverse backgrounds, reported to Ford engineers and scientists.",
+        "Result: Achieved a 40% improvement in calibration efficiency and an 80% increase in the number of feasible engine designs."]
     },
     {
       "icon": "fa-solid fa-building-columns",
@@ -97,8 +96,8 @@
       "summary": "",
       "highlights": ["Supervisor: Prof. Yang Yu.",
         "Research topics: Machine Learning, Statistical Learning, Bayesian Optimization.",
-        "Developed a co-training semi-supervised regression approach for predictive modeling.",
-        "Designed a top-querying strategy integrating these models with CMA optimization, improving optimization efficiency by up to 64% across Bayesian optimization problems."]
+        "Action: \n- Developed a co-training semi-supervised regression approach to actively learn predictive models for problems.\n- Designed a top-querying strategy integrating these models with CMA optimisation.",
+        "Result: Improved optimisation efficiency by up to 64% across Bayesian optimisation problems."]
     }
   ],
    "Projects[None]": [
@@ -248,7 +247,7 @@
     {
       "title": "CAGE Research Grant",
       "date": "2025",
-      "awarder": "The ESRC Centre for Advantage in the Global Economy (CAGE), University of Warwick",
+      "awarder": "The ESRC Centre for Advantage in the Global Economy, University of Warwick",
       "url": "",
       "summary": ""
     },
@@ -262,7 +261,7 @@
     {
       "title": "IEEE CIS Travel Grant",
       "date": "2019",
-      "awarder": "IEEE Computational Intelligence Society (CIS)",
+      "awarder": "IEEE Computational Intelligence Society",
       "url": "",
       "summary": ""
     },
@@ -291,7 +290,7 @@
     {
       "title": "First Prize in China National Mathematics Olympiad",
       "date": "2010",
-      "awarder": "Chinese Mathematical Society (CMS)",
+      "awarder": "Chinese Mathematical Society",
       "url": "",
       "summary": "Top 3 in Jiujiang City"
     }
